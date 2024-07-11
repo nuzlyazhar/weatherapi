@@ -5,8 +5,8 @@
 ## Potential Improvements and Future Enhancements
 Given more time, the following additions and improvements could be made to further enhance the application:
 
-### Enhanced Test Coverage:
-- Add env specific properties and use spring profiles
+### Profiles:
+- Add env specific properties and use spring profiles, also for tests
 
 ### Enhanced Test Coverage:
 - Add integration tests, using SpringBoot support for Testcontainers (Use @ServiceConnection, @GenericContainers)
